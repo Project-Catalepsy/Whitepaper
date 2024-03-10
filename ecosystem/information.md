@@ -24,16 +24,8 @@ Official website of the project
 
 ### Social networks
 
-{% embed url="https://t.me/+fmBZoCp1kXA4NTY0" %}
-Telegram Group in Spanish
-{% endembed %}
-
 {% embed url="https://t.me/+X43sCd4k9VM3MTU8" %}
-Telegram Group in English
-{% endembed %}
 
 {% embed url="https://t.me/+Qg9wyT1trpo1ODNk" %}
-Telegram Channel in English
-{% endembed %}
 
 {% embed url="https://twitter.com/Catalepsygame" %}
