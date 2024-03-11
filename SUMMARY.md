@@ -18,7 +18,7 @@
 * [🏬 Marketplace](economy/marketplace.md)
 * [🏁 Competition](economy/competition.md)
 * [💻 Developers](economy/devs.md)
-* [📂 Esquema económico](economy/objetivos-1.md)
+* [📂 Economic scheme](economy/economic-scheme.md)
 
 ## Pre-sales
 
