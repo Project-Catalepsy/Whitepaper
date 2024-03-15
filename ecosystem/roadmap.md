@@ -29,11 +29,11 @@ The project phases are approximate and subject to possible modifications or dela
 
 ## Phase 2: Initial Development
 
-* [ ] Website Creation v1.
-* [ ] Creation of communities: (Telegram, Discord, Reddit, X, Playtoearn.net)
-* [ ] Pitch Deck Creation (Presentation for partners and investors).
+* [x] Website Creation v1 - Completed 03/13/2024.
+* [x] Creation of communities: (Telegram, Discord, Reddit, X, Playtoearn.net) - Completed 03/15/2024.
 * [ ] Formation of the development team.
 * [ ] Creation of prototype.
+* [ ] Pitch Deck Creation (Presentation for partners and investors).
 
 ## Phase 3: Preparation and Alliances
 
